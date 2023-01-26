@@ -1,29 +1,18 @@
-# pokedex
+# Pokedex :collision:
 
-This template should help get you started developing with Vue 3 in Vite.
+A small vue App that allows the user to look for pokemons and know a little about them.
 
-## Recommended IDE Setup
+- Adds a pokemon in a list of favorites :heart:
+- Removes the pokemon from the list of favorites
+- Shows the 6 main stats of every pokemon 
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+# Technologies: :computer:
 
-## Customize configuration
+- HTML/CSS/JavaScript
+- Vue
+- Vue router 
+- Pinia  :pineapple:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+# Preview
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+[Check out! ](https://pokedexvue-app.netlify.app/)
